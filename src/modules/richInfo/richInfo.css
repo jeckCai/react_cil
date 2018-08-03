@@ -1,0 +1,29 @@
+html{font-size:62.5%;font-family: "microsoft yahei"; }
+.richInfoBox{background: #2A2941; width: 100%;margin: 0px auto;}
+
+.richInfoTop{ background: url(../../images/ruijima_bg1@2x.png) center top no-repeat; background-size: 100% 100%; height: 46.2rem;}
+.richInfoTopTip{height:2.8rem;line-height:2.8rem;width: 23.6rem;margin:0 auto;margin-top:1.6rem;color: #fff; text-align:center;opacity: 0.85;background-image: linear-gradient(-128deg, #00CFFF 0%, #5A54FF 46%, #B300FF 100%);border-radius: 96px;}
+.richInfo_title{ width: 23.6rem; margin: 0 auto 0; padding-top: 8rem;}
+
+.richplaypower_con{ }
+.richplaypower_con_txt{font-size: 1.1rem;color: #B3EEFF;text-shadow: 0 0 0.4rem #5052E2;margin: 0 4rem; margin-top: 1.5rem;}
+.richplaypower_ul{ margin: 0 4rem 0 2rem; padding: 0;overflow: visible; margin-top: -23rem;}
+.richplaypower_ul li{list-style: none; background: url(../../images/a_icon@2x.png) 0px 6px no-repeat; background-size:0.8rem 0.8rem;font-size: 1.2rem;
+color: #FFFFFF;overflow: visible; padding-left: 2rem; margin-bottom: 0.5rem;opacity: 0.7;font-size: 1.2rem;color: #FFFFFF;text-align: justify;}
+.tipcolo{color: #5AB9FF;}
+.personal{ width: 100%; margin: 0 auto;margin-top: 7.8rem;}
+.personalTop{ height: 5rem; width: 33rem; margin: 0 auto;}
+.personalCon{ margin: 0 4.3rem; margin-top: 3rem;}
+.richPlan{width: 100%; margin: 0 auto; margin-top: 7.8rem; padding-bottom: 4rem;}
+.richPlanCon{ display: flex; flex-direction: column;}
+.richPlanCon li{display: flex;flex-direction: column; width: 100%; margin-left: 3.2rem;}
+.num_title{ background: url(../../images/01@2x.png) bottom left no-repeat; background-size: 5.8rem 5rem; height: 6.2rem;position: relative;}
+.title_btn{position:absolute; bottom:0;background:rgba(4,203,255,0.1);border-radius: 10rem;height:2.6rem;line-height:2.6rem;font-size: 1.4rem;color: #04CBFF;letter-spacing: 0.05px;width: auto; padding: 0 1rem; display: inline-block;}
+.plantxt{opacity: 0.7;font-size: 1.2rem;color: #FFFFFF;letter-spacing: 0.05px; margin: 1rem 8.8rem 0 1.2rem;}
+
+.num_title1{ background: url(../../images/01@2x.png) bottom left no-repeat; background-size: 5.8rem 5rem; height: 6.2rem;position: relative;}
+.num_title2{ background: url(../../images/02@2x.png) bottom left no-repeat; background-size: 5.8rem 5rem; height: 6.2rem;position: relative;}
+.num_title3{ background: url(../../images/03@2x.png) bottom left no-repeat; background-size: 5.8rem 5rem; height: 6.2rem;position: relative;}
+.num_title4{ background: url(../../images/04@2x.png) bottom left no-repeat; background-size: 5.8rem 5rem; height: 6.2rem;position: relative;}
+.num_title5{ background: url(../../images/05@2x.png) bottom left no-repeat; background-size: 5.8rem 5rem; height: 6.2rem;position: relative;}
+

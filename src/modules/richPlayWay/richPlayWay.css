@@ -1,0 +1,32 @@
+html{font-size:62.5%;font-family: "microsoft yahei",Arial, Helvetica, sans-serif; }
+.richplaybox{background: url("../../images/bg@2x.png") top center no-repeat; width: 100%; background-size:100% 100%; margin: 0px auto;}
+.richplaytopbg{}
+.richplaywhattop{display: flex; margin-top: 5rem; justify-content: space-between;}
+.whattop_left{ width: 9.2rem;margin-top: 0.8rem;}
+.whattop_middle{ width: 16.5rem; height:3.6rem; margin-left: 0.8rem;}
+.whattop_right{ width: 4.2rem; margin: 0 2.5rem 0 3.6rem; height: 5.6rem;}
+.richplaywhat_con{ }
+.richplaywhat_con_txt{font-size: 1.1rem;color: #B3EEFF;text-shadow: 0 0 0.4rem #5052E2;margin: 0 4rem; margin-top: 1.5rem;}
+.richplaywhat_con_ul{ margin: 0 4rem 0 2rem; padding: 0;overflow: visible; margin-top: 2rem;}
+.richplaywhat_con_ul li{list-style: none; background: url(../../images/point@2x.png) 0px 3px no-repeat; background-size:1.5rem 1.5rem;font-size: 1.1rem;
+color: #FFFFFF;text-shadow: 0 0.2rem 0.4rem #323C9A;overflow: visible; padding-left: 2rem; margin-bottom: 0.5rem;}
+.richplaywhattip{font-size: 1.1rem;color: #B3EEFF;text-shadow: 0 0 0.4rem #5052E2;margin: 0 4rem; }
+
+.richplaypower{display: flex; margin-top: 5rem; justify-content: space-between;}
+.powerwhattop_left{ width: 2.2rem;height:3.2rem;margin-left: 4rem; margin-right: 4rem; margin-top: -1.6rem;}
+.powerwhattop_middle{ width: 16.5rem; height: 3.6rem; margin-left: 0.8rem;}
+.powerwhattop_right{ width: 8.4rem; margin: 0 0.5rem 0 1.3rem; height: 3.6rem;}
+
+.richplaypower_con{ }
+.richplaypower_con_txt{font-size: 1.1rem;color: #B3EEFF;text-shadow: 0 0 0.4rem #5052E2;margin: 0 4rem; margin-top: 1.5rem;}
+.richplaypower_ull{ margin: 0 4rem 0 2rem; padding: 0;overflow: visible; margin-top: 2rem;}
+.richplaypower_ull li{list-style: none; background: url(../../images/point@2x.png) 0px 3px no-repeat; background-size:1.5rem 1.5rem;font-size: 1.1rem;
+color: #FFFFFF;text-shadow: 0 0.2rem 0.4rem #323C9A;overflow: visible; padding-left: 2rem; margin-bottom: 0.5rem;}
+.richplayhow{display: flex; margin-top: 5rem; justify-content: space-between;}
+.howwhattop_left{ width: 8.4rem;margin-top: 0.8rem;}
+.howwhattop_middle{ width: 24.7rem; height: 3.6rem; margin-left: 0.8rem;}
+.howwhattop_right{ width: 2.4rem; margin: -2.6rem 2rem 0 1.6rem; height: 5.2rem;}
+.richplayhow_ul{ margin: 0 4rem 0 2rem; padding-bottom: 4rem;overflow: visible; margin-top: 2rem;}
+.richplayhow_ul li{list-style: none; background: url(../../images/point@2x.png) 0px 3px no-repeat; background-size:1.5rem 1.5rem;font-size: 1.1rem;
+color: #FFFFFF;text-shadow: 0 0.2rem 0.4rem #323C9A;overflow: visible; padding-left: 2rem; margin-bottom: 0.5rem;}
+

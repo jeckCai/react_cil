@@ -1,0 +1,36 @@
+.poser_title {
+    background: url('./../../../images/mining_power_bg@2x.png');
+    width: 100%;
+    min-height: 120px;
+    background-size: 100% 100%;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 5px;
+}
+
+.poser_title .poser_title_title {
+    font-size: 13px;
+    color: #FFFFFF;
+    text-indent: 15px;
+    text-align: left;
+    padding-top: 15px;
+}
+
+.poser_title .poser_title_num {
+    font-size: 46px;
+    color: #FFFFFF;
+    text-align: left;
+    text-indent: 15px;
+}
+/* btn */
+.button_title{
+    background: url('./../../../images/mining_power_lower_bg@2x.png');
+    width: 100%;
+    background-size: 100% 100%;
+    text-align: center;
+    color: #FFFFFF;
+    min-height: 50px;
+    line-height: 50px;
+    position: absolute;
+    bottom: 0;
+}

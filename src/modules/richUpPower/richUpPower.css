@@ -1,0 +1,38 @@
+
+html{font-size: 62.5%; font-family: "microsoft yahei",Arial, Helvetica, sans-serif; }
+.richUpPower{ margin: 0 auto; width: 100%; height: 100%; background: #F2F2F2;}
+.richUpPowerTop{ height: 12rem; width: 100%; background: url(../../images/lifting_power_bg@2x.png) center center no-repeat; background-size: 100% 12rem; text-align: center;}
+.TipTop{background:rgba(255,255,255,0.2);border-radius: 100px; height: 2.2rem; line-height: 2.2rem;font-size: 1.4rem;
+color: #fff;display: inline-block; padding: 0 1rem;margin: 0 auto; width: 18.5rem; margin-top: 6.8rem;} 
+.richUpPowerCon{ margin-top: 0.6rem;}
+.richteskTop{ padding:1rem 0 1rem 1.5rem ; font-size: 1.5rem;color: #444444;background: #fff;}
+
+.richteskCon{margin-top: 1px; display: flex;flex-wrap:wrap;flex:3; background: #fff;margin-bottom: 10px;}
+
+.status_nomal{text-align: center;color: #fff; width: 86px; background: url(../../images/lifting_power_regular_tasks_bg@2x.png) center center no-repeat;  height: 20px; background-size: 100% 20px;}
+.richteskConLii{background: #fff; width: 100%; height: 12.5rem; margin: 0 1px 1px 0; display: flex;flex-direction: column; justify-content: center;align-items: center;}
+.richteskConLi{border-bottom:1px solid #f2f2f2;border-right:1px solid #f2f2f2;width: 33%; height: 12.5rem; margin: 0 1px 1px 0; display: flex;flex-direction: column; justify-content: center;align-items: center;}
+.richteskConLi:nth-child(3){border-right:none}
+.richteskConLi:nth-child(4){border-bottom:none}
+.richteskConLi:nth-child(5){border-bottom:none}
+.richteskConLii img{ width: 30px; height: 30px;}
+.richteskConLii dt{font-weight: bold;}
+.success{display: flex; justify-content: center; align-items: center;}
+.success img{ width: 1.5rem; height: 1.5rem; margin-right: 5px;}
+
+.hidden{ display: none;}
+.am-modal-alert-content, .am-modal-propmt-content{ text-align: left;font-size: 1.7rem;color: #444444;}
+.am-modal-transparent .am-modal-content .am-modal-body{ padding: 0;padding-bottom: 0px;}
+.am-modal-transparent .am-modal-content{ padding-top: 0px; }
+.am-modal-button-group-v .am-modal-button{font-size: 1.4rem;color: #5AB9FF;}
+.am-modal-button-group-h .am-modal-button{ font-size: 1.4rem;}
+.contentOne{ padding:27px 26px 19px 26px;}
+.contentTwo img{ margin-bottom: 26px;}
+.contentTwo p{font-size: 1.7rem;color: #444444; text-align: center;}
+.contentTwo dl{font-size: 1.2rem;color: #666666; text-align: center; margin: 10px auto 19px;}
+.contentTwo dl span{ color: #6EC2FF;}
+.ENABLED{ display:flex;flex-direction: column;justify-content: center; align-items: center;}
+.ABLED{ display:flex;flex-direction: column;justify-content: center; align-items: center;}
+.ABLED dt{color: #999999;}
+.ABLED p{color: #999999;}
+.status_nomal_abled{background: #F2F2F2;color: #999999;text-align: center; width: 86px; height: 20px; background-size: 100% 20px;border-radius: 5px;}
